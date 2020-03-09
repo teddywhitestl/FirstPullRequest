@@ -64,7 +64,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Li, Wei
 
-- [X] Lutz, Esme (@elutz-125)
+- [X] Lutz, Esme (@elutz-125) - I threw a boomerang a few years ago.  Now I'm in constant fear!  HEHE
 
 - [ ] Magnani, Bernardo
 
